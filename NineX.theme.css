@@ -14,7 +14,7 @@
 
 /* See https://github.com/Saltssaumure/w9x-discord-theme#customisation for customisation settings. */
 :root {
-    --w9x-background-image: none;
-    --w9x-background-color: #008080;
+    --w9x-background-image: url(https://rare-gallery.com/uploads/posts/1020354-illustration-palm-trees-Microsoft-Windows-vaporwave-Windows-95-mural-ART-screenshot.jpg);
+    --w9x-background-color: #402e5d;
     --w9x-start-text: "Windows95";
 }
